@@ -274,3 +274,12 @@ D:\Learning\Projects\DatingApp-Udemy-Course\DatingApp.WebAPI\obj\Debug\net8.0\re
 D:\Learning\Projects\DatingApp-Udemy-Course\DatingApp.WebAPI\obj\Debug\net8.0\DatingApp.WebAPI.pdb
 D:\Learning\Projects\DatingApp-Udemy-Course\DatingApp.WebAPI\obj\Debug\net8.0\DatingApp.WebAPI.genruntimeconfig.cache
 D:\Learning\Projects\DatingApp-Udemy-Course\DatingApp.WebAPI\obj\Debug\net8.0\ref\DatingApp.WebAPI.dll
+D:\Learning\Projects\DatingApp-Udemy-Course\DatingApp.WebAPI\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+D:\Learning\Projects\DatingApp-Udemy-Course\DatingApp.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Learning\Projects\DatingApp-Udemy-Course\DatingApp.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Learning\Projects\DatingApp-Udemy-Course\DatingApp.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Learning\Projects\DatingApp-Udemy-Course\DatingApp.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Learning\Projects\DatingApp-Udemy-Course\DatingApp.WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Learning\Projects\DatingApp-Udemy-Course\DatingApp.WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Learning\Projects\DatingApp-Udemy-Course\DatingApp.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Learning\Projects\DatingApp-Udemy-Course\DatingApp.WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
